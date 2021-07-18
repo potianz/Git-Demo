@@ -5,6 +5,6 @@ public class MainTest2 {
         System.out.println("真的奇怪，为什莫上传不成功！");
         System.out.println("为什莫!!!111");
         System.out.println("芜湖  我会提交了");
-        System.out.println("我不改主页的标签@、、、、");
+        System.out.println("我不改主页的标签@、、、、烦死了");
     }
 }
