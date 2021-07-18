@@ -6,5 +6,6 @@ public class MainTest2 {
         System.out.println("为什莫!!!111");
         System.out.println("芜湖  我会提交了");
         System.out.println("我不改主页的标签@、、、、烦死了");
+        System.out.println("芜湖芜湖");
     }
 }
