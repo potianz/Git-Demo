@@ -9,7 +9,7 @@ public class MainTest {
         int a = sc.nextInt();
         System.out.println("密钥 zyh11zs");
         System.out.println(a);
-
+        System.out.println();
 
     }
 }
